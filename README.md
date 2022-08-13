@@ -18,4 +18,14 @@ use "delightfulagony/seiheki-nvim"
 Plug 'delightfulagony/seiheki-nvim'
 ```
 
-It comes with two themes: `seiheki` and `seiheki-dark`.
+## Usage
+
+Seiheki comes with two variants: `seiheki` and `seiheki-dark`. You can choose one with:
+
+```
+colorscheme seiheki
+```
+
+## Credit
+
+This theme was created with [vimcolors.org](https://github.com/pablopunk/vimcolors.org) with some small modifications.
